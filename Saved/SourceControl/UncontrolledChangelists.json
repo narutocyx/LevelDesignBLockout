@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap_2.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap_1.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap_BuiltData.uasset",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/TestMap.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/TestMap_1.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/TestMap_2.umap",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/TestMap_BuiltData.uasset",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap_Main_BuiltData.uasset",
+				"C:/Users/falconchen/Documents/Unreal Projects/ImplementingLevelDesignwi/Content/Maps/Blockout_Test/TestMap_Main.umap"
+			]
+		}
+	]
+}
